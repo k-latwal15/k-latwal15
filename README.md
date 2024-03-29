@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @k-latwal15
-- 👀 I’m interested in Front-end Web development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on Front-end.
+- 👀 I’m a Front-end Web developer.
+- 🌱 I’m currently Fullstack as MERN developer.
 - 📫 reach me:- k.latwal15@gmail.com
 
 <!---
