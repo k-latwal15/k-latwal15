@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-latwal15
 - 👀 I’m a Front-end Web developer.
-- 🌱 I’m currently Fullstack as MERN developer.
+- 🌱 I’m currently learning Fullstack as MERN developer.
 - 📫 reach me:- k.latwal15@gmail.com
 
 <!---
